@@ -1,4 +1,4 @@
-# GIS-Coursework
+# GIS Coursework
 Coursework from Scripps Institution of Oceanography's Geographical Information Systems (GIS) class. All work can be accessed through the software ArcGIS Pro or ArcGIS Online.
 
 ## Buoys in Management Area for Right Whales
@@ -21,6 +21,7 @@ Lesson: https://learn.arcgis.com/en/projects/predict-deforestation-in-the-amazon
 Found the spatial locations of a proposed harvest of aspen trees in Michigan's Upper Peninsula and measured how much timber will be produced.
 
 Lesson: https://learn.arcgis.com/en/projects/plan-a-timber-harvest/
+
 
 ### Technologies
 - ArcGIS Pro
