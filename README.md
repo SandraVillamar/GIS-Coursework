@@ -8,6 +8,7 @@ Used overlay analysis to find out how many buoy observations are available in th
 A story map showing fatalities during the 1916 Easter Rising in Dublin.
 
 To access the complete story map in ArcGIS Online, go to: https://arcg.is/1bDjDG
+Lesson: https://learn.arcgis.com/en/projects/tell-the-story-of-irish-public-history/
 
 ## Harbor Bay Map
 Identified Marine Protected Areas near San Diego Bay. Created a professional printable map.
