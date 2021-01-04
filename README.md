@@ -17,6 +17,11 @@ Created a map of deforestation in the Brazilian state of Rondônia (located in t
 
 Lesson: https://learn.arcgis.com/en/projects/predict-deforestation-in-the-amazon-rain-forest/
 
+## Storm Surges
+Used elevation data to map storm surges in New York City and predicted which areas will flood the next time a hurricane hits.
+
+Lesson: https://learn.arcgis.com/en/projects/map-hurricane-storm-surges/
+
 ## Timber Harvest Planning
 Found the spatial locations of a proposed harvest of aspen trees in Michigan's Upper Peninsula and measured how much timber will be produced.
 
