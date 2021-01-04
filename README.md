@@ -4,6 +4,11 @@ Coursework from Scripps Institution of Oceanography's Geographical Information S
 ## Buoys in Management Area for Right Whales
 Used overlay analysis to find out how many buoy observations are available in the management area for Right Whales as well as Marine Protected Areas.
 
+## Easter Rising Commemoration
+A story map showing fatalities during the 1916 Easter Rising in Dublin.
+
+To access the complete story map in ArcGIS Online, go to: https://arcg.is/1bDjDG
+
 ## Harbor Bay Map
 Identified Marine Protected Areas near San Diego Bay. Created a professional printable map.
 
