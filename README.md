@@ -4,6 +4,11 @@ Coursework from Scripps Institution of Oceanography's Geographical Information S
 ## Buoys in Management Area for Right Whales
 Used overlay analysis to find out how many buoy observations are available in the management area for Right Whales as well as Marine Protected Areas.
 
+## Coronavirus Dashboard
+This map illustrates confirmed COVID-19 cases in the US.
+
+Dashboard: https://ucsdonline.maps.arcgis.com/apps/opsdashboard/index.html#/83a9312cb4e246189aade59f32230e68
+
 ## Easter Rising Commemoration
 A story map showing fatalities during the 1916 Easter Rising in Dublin. To access the complete story map in ArcGIS Online, go to: https://arcg.is/1bDjDG
 
@@ -32,6 +37,12 @@ Found the spatial locations of a proposed harvest of aspen trees in Michigan's U
 
 Lesson: https://learn.arcgis.com/en/projects/plan-a-timber-harvest/
 
+## Trash Observations in San Diego
+Created a survey to collect information about trash in San Diego. Collected GPS data using a hand-held device. Created and shared a wep map containing survey data.
+
+Survey: https://survey123.arcgis.com/share/00f81350dea84ce58e4651d86fc21200
+
+Wep map: https://ucsdonline.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=3cb8b28211ee46cd8e61a07396a5ac8c&center=-117.2409,32.8651&level=14
 
 ### Technologies
 - ArcGIS Pro
